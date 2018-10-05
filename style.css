@@ -1,0 +1,27 @@
+body{
+	background: #83AF9B;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1{
+	color:#FE4365;
+}
+img{
+	border: 2px solid;
+	margin-top : 4px;
+}
+.bio{
+	font-size: 24px;
+}
+.network {
+	font-size: 22px;
+	color : #FF5039;
+	text-decoration: none;
+}
+.network:hover {
+	color: white;
+}
+.adresse{
+	font-size: 17px
+}
