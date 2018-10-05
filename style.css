@@ -2,11 +2,11 @@ body{
 	background: #83AF9B;
 	text-align: center;
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 44px
 }
 
 h1{
 	color:#FE4365;
+	font-size: 44px;
 }
 img{
 	border: 2px solid;
